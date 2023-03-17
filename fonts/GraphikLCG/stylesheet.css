@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Medium Italic'), local('GraphikLCG-MediumItalic'),
+        url('GraphikLCG-MediumItalic.woff2') format('woff2'),
+        url('GraphikLCG-MediumItalic.woff') format('woff'),
+        url('GraphikLCG-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Super Italic'), local('GraphikLCG-SuperItalic'),
+        url('GraphikLCG-SuperItalic.woff2') format('woff2'),
+        url('GraphikLCG-SuperItalic.woff') format('woff'),
+        url('GraphikLCG-SuperItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Semibold Italic'), local('GraphikLCG-SemiboldItalic'),
+        url('GraphikLCG-SemiboldItalic.woff2') format('woff2'),
+        url('GraphikLCG-SemiboldItalic.woff') format('woff'),
+        url('GraphikLCG-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Black'), local('GraphikLCG-Black'),
+        url('GraphikLCG-Black.woff2') format('woff2'),
+        url('GraphikLCG-Black.woff') format('woff'),
+        url('GraphikLCG-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Super'), local('GraphikLCG-Super'),
+        url('GraphikLCG-Super.woff2') format('woff2'),
+        url('GraphikLCG-Super.woff') format('woff'),
+        url('GraphikLCG-Super.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Thin'), local('GraphikLCG-Thin'),
+        url('GraphikLCG-Thin.woff2') format('woff2'),
+        url('GraphikLCG-Thin.woff') format('woff'),
+        url('GraphikLCG-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Extralight Italic'), local('GraphikLCG-ExtralightItalic'),
+        url('GraphikLCG-ExtralightItalic.woff2') format('woff2'),
+        url('GraphikLCG-ExtralightItalic.woff') format('woff'),
+        url('GraphikLCG-ExtralightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Regular'), local('GraphikLCG-Regular'),
+        url('GraphikLCG-Regular.woff2') format('woff2'),
+        url('GraphikLCG-Regular.woff') format('woff'),
+        url('GraphikLCG-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Bold Italic'), local('GraphikLCG-BoldItalic'),
+        url('GraphikLCG-BoldItalic.woff2') format('woff2'),
+        url('GraphikLCG-BoldItalic.woff') format('woff'),
+        url('GraphikLCG-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Light Italic'), local('GraphikLCG-LightItalic'),
+        url('GraphikLCG-LightItalic.woff2') format('woff2'),
+        url('GraphikLCG-LightItalic.woff') format('woff'),
+        url('GraphikLCG-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Black Italic'), local('GraphikLCG-BlackItalic'),
+        url('GraphikLCG-BlackItalic.woff2') format('woff2'),
+        url('GraphikLCG-BlackItalic.woff') format('woff'),
+        url('GraphikLCG-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Medium'), local('GraphikLCG-Medium'),
+        url('GraphikLCG-Medium.woff2') format('woff2'),
+        url('GraphikLCG-Medium.woff') format('woff'),
+        url('GraphikLCG-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Light'), local('GraphikLCG-Light'),
+        url('GraphikLCG-Light.woff2') format('woff2'),
+        url('GraphikLCG-Light.woff') format('woff'),
+        url('GraphikLCG-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Semibold'), local('GraphikLCG-Semibold'),
+        url('GraphikLCG-Semibold.woff2') format('woff2'),
+        url('GraphikLCG-Semibold.woff') format('woff'),
+        url('GraphikLCG-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Bold'), local('GraphikLCG-Bold'),
+        url('GraphikLCG-Bold.woff2') format('woff2'),
+        url('GraphikLCG-Bold.woff') format('woff'),
+        url('GraphikLCG-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Extralight'), local('GraphikLCG-Extralight'),
+        url('GraphikLCG-Extralight.woff2') format('woff2'),
+        url('GraphikLCG-Extralight.woff') format('woff'),
+        url('GraphikLCG-Extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Thin Italic'), local('GraphikLCG-ThinItalic'),
+        url('GraphikLCG-ThinItalic.woff2') format('woff2'),
+        url('GraphikLCG-ThinItalic.woff') format('woff'),
+        url('GraphikLCG-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Graphik LCG';
+    src: local('Graphik LCG Regular Italic'), local('GraphikLCG-RegularItalic'),
+        url('GraphikLCG-RegularItalic.woff2') format('woff2'),
+        url('GraphikLCG-RegularItalic.woff') format('woff'),
+        url('GraphikLCG-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
